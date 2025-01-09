@@ -1,0 +1,146 @@
+<style>
+button{
+    text-align: center;
+    height:36px;
+    border-radius: 2px;;
+    cursor: pointer;
+    
+   
+   
+}
+
+
+/* l1 */
+.uber{
+    background-color: black;
+    color:white;
+    padding:7px 16px;
+    border:none;
+    border-radius: 2px;
+    font-size:15px;
+}
+/* l2 */
+.amazon{
+    background-color: rgb(255, 218, 20);
+    color:black;
+    padding:7px 40px;
+    border:none;
+    border-radius: 50px;
+    font-size:15px;
+}
+/* l3 */
+.github{
+    background-color: rgb(45, 139, 55);
+    color:white;
+    padding:7px 16px;
+    border:none;
+    border-radius: 5px;
+    font-size:15px;
+
+}
+/* l4 */
+.b1{
+    background-color: rgb(121, 82, 179);
+    color:white;
+    padding:7px 16px;
+    border:none;
+    border-radius: 4px;
+    font-size:15px;
+}
+
+.b2{
+    background-color: white;
+    color:rgb(77, 51, 116);
+    padding:7px 40px;
+    border:1px solid rgb(76, 45, 123);
+    border-radius: 2 px;
+    font-size:15px;
+    font-weight: bold;
+}
+/* l5*/
+.l1{
+    background-color: rgb(10, 102, 194);
+    color:white;
+    padding:7px 40px;
+    border:none;
+    border-radius: 50px;
+    font-size:15px;
+    
+}
+/* l5 */
+.l2{
+    background-color: white;
+    color: rgb(10, 102, 194);
+    padding:7px 40px;
+    border:1px solid  rgb(10, 102, 194);
+    border-radius: 50px;
+    font-size:15px;
+    font-weight: bold;
+}
+/* l6 */
+.bnow{
+    background-color: rgb(255, 164, 28);
+    color:black;
+    padding:7px 40px;
+    border:none;
+    border-radius: 50px;
+    font-size:15px;
+    margin-left: 8px;;
+}
+a{
+    color:rgb(1, 105, 105);
+    font-size: 20px;
+    
+}
+#p1{
+
+    font-weight: bold;
+    font-size: 30px;
+}
+#p2{
+    color: rgb(0, 136, 0);
+    font-weight: bold;
+    font-size:15px;
+}
+p{
+    font-size:15px;
+    font-weight: bold;
+}
+    
+
+</style>
+
+
+<!-- l1 -->
+ <br>
+ <br>
+
+<button class="uber"> Request now</button>
+<br>
+ <br>
+ <!-- l2 -->
+<button class="amazon">Add to cart</button>
+<br>
+ <br>
+ <!-- l3 -->
+<button class="github">Sign Up</button>
+<br>
+ <br>
+ <!-- l4 -->
+<button class="b1">Get Started</button>
+
+<button class="b2">Download</button>
+<br>
+ <br>
+ <!-- l5 -->
+<button class="l1">Apply to company Website</button>
+<button class="l2">Save</button>
+<br>
+<br>
+<!-- l6 -->
+<a href="https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_5szpgfto9i_e&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=713930225169&hvpos=&hvnetw=g&hvrand=8727229328950537721&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9040186&hvtargid=kwd-64107830&hydadcr=14452_2402225&gad_source=1" target="_blank">back to amazon</a>
+<p id="p1" >Nike black Running Shoes</p>
+<p id="p2">$39-in stock</p>
+<p >free delivery</p>
+<button class="amazon">Add to cart</button>
+<button class="bnow"> buy now</button>
